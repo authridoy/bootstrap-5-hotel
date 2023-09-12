@@ -1,0 +1,144 @@
+@media (max-width: 1400px) {
+    .swiper-details {
+        margin: 31% 40px 0;
+    }
+    .main-btn {
+        font-size: 0.76rem;
+    }
+    .room-wrapper .room-items .room-item-content {
+        padding: 23px 25px;
+    }
+}
+
+/*============== 1200 ==============*/
+@media (max-width: 1200px) {
+    .swiper-details {
+        margin: 36% 40px 0;
+    }
+    .main-btn {
+        font-size: 0.76rem;
+        padding: 0.24rem 1.875rem;
+    }
+    
+    .room-wrapper .room-items .room-item-content {
+        height: 309px;
+        padding: 10px 11px;
+    }
+    .room-item-content h5 {
+        margin-bottom: 15px;
+    }
+    .room-item-content p {
+        font-size: 16px;
+        font-weight: 400;
+    }
+    .room-item-content .main-btn {
+        margin-top: 5px;
+    }
+}
+
+/*============== 992 ==============*/
+ @media (max-width: 992px) { 
+    .swiper-details {
+        margin: 28% 40px 0;
+    }
+    .main-btn {
+        font-size: 0.76rem;
+    }
+    .booking-area {
+        margin-top: -13rem;
+    }
+    .about-image::after {
+        width: 370px;
+        height: 287px;
+    }
+    .about-image::before {
+        width: 370px;
+        height: 287px;
+    }
+    .room-item-content h5 {
+        margin-bottom: 6px;
+        font-size: 18px;
+    }
+    .room-item-content p {
+        font-size: 14px;
+        line-height: 18px;
+        margin-bottom: 8px;
+    }
+    
+    .room-item-content .main-btn {
+        margin-top: 0px;
+        font-size: 12px;
+        padding: 0px 19px;
+    }
+    .room-wrapper .room-item-wrap {
+        left: 12PX;
+        right: 12PX;
+    }
+    .room-wrapper .room-items .room-item-content {
+        height: 240px;
+        width: 181px;
+        padding: 10px 11px;
+    }
+    .service-wrapper .nav-item:nth-child(1),
+    .service-wrapper .nav-item:nth-child(2),
+    .service-wrapper .nav-item:nth-child(3),
+    .service-wrapper .nav-item:nth-child(4){
+        margin-left: 0;
+    }
+    .footer-wrapper .main-btn {
+        font-size: 1rem;
+        padding: 9px 63px;
+    }
+}
+
+/*============== 768 ==============*/
+@media (max-width: 768px) { 
+    .swiper-details {
+        margin: 46% 40px 0;
+    }
+    .room-wrapper .room-item-wrap {
+        left: 31PX;
+        right: 31PX;
+    }
+    .room-wrapper .room-items .room-item-content {
+        height: 522px;
+        width: 431px;
+        padding: 48px 45px;
+    }
+    .room-item-content h5 {
+        margin-bottom: 30px;
+        font-size: 30px;
+    }
+    .room-item-content p {
+        font-size: 20px;
+        line-height: 29px;
+        margin-bottom: 26px;
+    }
+    .room-item-content p {
+        font-size: 20px;
+        line-height: 29px;
+        margin-bottom: 26px;
+    }
+    .room-item-content .main-btn {
+        font-size: 18px;
+        padding: 8px 25px;
+    }
+    .footer-wrapper .main-btn {
+        font-size: 1rem;
+        padding: 9px 63px;
+    }
+}
+
+/*============== 576 ==============*/
+@media (max-width: 576px) {
+    .swiper-details {
+        margin: 55% 40px 0;
+    }
+    .swiper-details h1 {
+        font-size: 2.75rem;
+    }
+    .footer-wrapper .main-btn {
+        font-size: 1rem;
+        padding: 9px 63px;
+    }
+}
